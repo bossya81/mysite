@@ -1,0 +1,4 @@
+# folder www ignore
+www/
+# FTP соединение
+.ftpconfig
